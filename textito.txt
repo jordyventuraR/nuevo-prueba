@@ -1,0 +1,1 @@
+el programa de python hace una funcion que saluda a una persona desde un print
